@@ -1,0 +1,5 @@
+/home/student/shared/DIP02/build/CMakeFiles/rebuild_cache.dir
+/home/student/shared/DIP02/build/CMakeFiles/edit_cache.dir
+/home/student/shared/DIP02/build/CMakeFiles/unit_test.dir
+/home/student/shared/DIP02/build/CMakeFiles/main.dir
+/home/student/shared/DIP02/build/CMakeFiles/code.dir
